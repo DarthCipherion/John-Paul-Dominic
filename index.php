@@ -16,7 +16,7 @@
             <div class="link"><a href="#">Services</a></div>
             <div class="link"><a href="#">Skills</a></div>
             <div class="link"><a href="#">Contact</a></div>
-            <strong>Joel's back!</strong>
+            <h1>Joel's back!</h1>
         </div>
     </nav>
 </body>
